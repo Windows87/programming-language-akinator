@@ -3,22 +3,22 @@ features = ['multiParadigm', 'objectOriented', 'functional', 'imperative', 'scri
 
 # Questions
 questions = {
-  'multiParadigm': 'Essa linguagem é multi paradigma?',
-  'objectOriented': 'Essa linguagem é orientada a objetos?',
-  'functional': 'Essa linguagem é funcional?',
-  'imperative': 'Essa linguagem é imperativa?',
-  'scripting': 'Essa linguagem é de script?',
-  'strongTyped': 'Essa linguagem é fortemente tipada?',
-  'dynamicTyped': 'Essa linguagem é dinamicamente tipada?',
-  'forFrotend': 'Essa linguagem é utilizada no frontend?',
-  'forBackend': 'Essa linguagem é utilizada no backend?',
-  'forMobile': 'Essa linguagem é utilizada no desenvolvimento mobile?',
-  'forDesktop': 'Essa linguagem é utilizada no desenvolvimento desktop?',
-  'forScience': 'Essa linguagem é uma linguagem científica?',
-  'forCommandLine': 'Essa linguagem é utilizada no terminal/linha de comando?',
-  'isOld': 'Essa linguagem é velha (30 anos ou mais)?',
-  'isNew': 'Essa linguagem é nova (menos de 20 anos)?',
-  'isPopular': 'Essa linguagem é popular?'
+  'multiParadigm': 'Is this language multiparadigm?',
+  'objectOriented': 'Is this language object-oriented?',
+  'functional': 'Is this language functional?',
+  'imperative': 'Is this language imperative?',
+  'scripting': 'Is that scripting language?',
+  'strongTyped': 'Is this language strongly typed?',
+  'dynamicTyped': 'Is this language dynamically typed?',
+  'forFrotend': 's this language commonly used in the frontend?',
+  'forBackend': 'Is this language commonly used in the backend?',
+  'forMobile': 'Is this language commonly used in mobile development?',
+  'forDesktop': 'Is this language commonly used in desktop development?',
+  'forScience': 'Is this language a scientific language?',
+  'forCommandLine': 'Is this language commonly used in the terminal / command line?',
+  'isOld': 'Is that language old (30 years or more)?',
+  'isNew': 'Is this language new (less than 20 years old)?',
+  'isPopular': 'Is this language popular?'
 }
 
 # Answers Buttons
